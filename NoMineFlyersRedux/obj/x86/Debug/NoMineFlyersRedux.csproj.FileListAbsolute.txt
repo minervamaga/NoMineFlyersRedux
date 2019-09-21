@@ -1,0 +1,6 @@
+D:\GitHubSource\NoMineFlyersRedux\NoMineFlyersRedux\bin\x86\Debug\NoMineFlyersRedux.dll
+D:\GitHubSource\NoMineFlyersRedux\NoMineFlyersRedux\bin\x86\Debug\NoMineFlyersRedux.pdb
+D:\GitHubSource\NoMineFlyersRedux\NoMineFlyersRedux\obj\x86\Debug\NoMineFlyersRedux.csprojAssemblyReference.cache
+D:\GitHubSource\NoMineFlyersRedux\NoMineFlyersRedux\obj\x86\Debug\NoMineFlyersRedux.csproj.CoreCompileInputs.cache
+D:\GitHubSource\NoMineFlyersRedux\NoMineFlyersRedux\obj\x86\Debug\NoMineFlyersRedux.dll
+D:\GitHubSource\NoMineFlyersRedux\NoMineFlyersRedux\obj\x86\Debug\NoMineFlyersRedux.pdb
